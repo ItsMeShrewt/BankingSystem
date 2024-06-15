@@ -19,7 +19,7 @@ class Account {
 
     // Getter methods
     // Richie
-    //Dadubo
+    // tampoy
     // Dave Code
     public int getAccountNumber() {
         return acc_Number;
