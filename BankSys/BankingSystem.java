@@ -25,6 +25,10 @@ class Account {
         return acc_Number;
     }
 
+    public String myString(string1, string2){
+        return string1;
+    }
+    
     public String getAccountHolderName() {
         return accountHolderName;
     }
