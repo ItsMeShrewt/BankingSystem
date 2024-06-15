@@ -18,6 +18,7 @@ class Account {
     }
 
     // Getter methods
+    // Richie
     public int getAccountNumber() {
         return acc_Number;
     }
